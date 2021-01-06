@@ -26,5 +26,7 @@
             'password' => $param->password
         ];
     }
+    
+    具体可参考 https://gitee.com/lphkxd/hyperf-validate/tree/master/
 
    
