@@ -1,7 +1,7 @@
 # hyperf-validate
 通过注解、切面验证表单
 
-安装方法  composer require Arlin-gith/hyperf-validate
+安装方法  composer require arlin-lin/hyperf-validate
 
 注解: @RequestValidation
 
