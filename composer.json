@@ -30,6 +30,11 @@
             "Arlin\\Validate\\": "src/"
         }
     },
+    "extra": {
+        "hyperf": {
+            "config": "Arlin\\Validate\\ConfigProvider"
+        }
+    },
     "config": {
         "sort-packages": true
     },
